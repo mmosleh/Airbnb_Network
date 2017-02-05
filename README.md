@@ -5,4 +5,4 @@ The visualization is done using Gephi.
 Airbnb data set used from Inside Airbnb Project (insideairbnb.com) and is based on users ID, showing visitis of users to other user's listings
 Visaulization is done at the individuals and city level. 
 
-![alt tag](https://github.com/mmosleh/Airbnb_Network/blob/master/Host_Guest_all.pdf)
+![alt tag](https://github.com/mmosleh/Airbnb_Network/blob/master/Host_Guest_all.png)
